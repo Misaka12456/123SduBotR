@@ -9,7 +9,7 @@
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 <p><b><font color="red">注意：本程序最佳运行环境为酷Q Pro，您可以通过功能M-2测试是否可以使用所有功能。</font></b></p>
 这是一个酷Q的开源QQ机器人项目。<br>
-使用时请遵守相关法律法规和MIT开源协议。<br>
+使用时请遵守相关法律法规和WTFPL开源协议。<br>
 <h6>以下用“CQP”简称酷Q Pro，用“CQA”简称酷Q Air，用“CQ”简称酷Q(CQ码除外)。<br>
 以下的功能编号中A指Auto,即对应功能代码在Start.java中就已自动处理,而未转到ProcessGroupMsg.java或ProcessGroupManageMsg.java中处理.<br>
 以下所使用的路径均为相对于程序数据目录的路径.<br>
